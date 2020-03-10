@@ -5,9 +5,9 @@ This repo contains some of the files used to produce the following:
 
 ![screenshot](screenshot.jpg)
 
-... which I posted on [reddit][]
+... which I posted on [reddit][].
 
-[reddit]: (https://www.reddit.com/r/unixporn/comments/fcca54/kde_blue_blur/).
+[reddit]: https://www.reddit.com/r/unixporn/comments/fcca54/kde_blue_blur/
 
 This Repo Provides
 ------------------
