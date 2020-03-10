@@ -12,8 +12,8 @@ This repo contains some of the files used to produce the following:
 This Repo Provides
 ------------------
 
- * Modified [FlatBlur][] theme
- * The custom color theme (probably based on [Akava][])
+ * **FlatBlur-SoftBlue**: Modified [FlatBlur][] theme
+ * **SoftBlue color**: Modified [Akava][] color theme
 
 [FlatBlur]: https://store.kde.org/p/1326672/
 [Akava]: https://github.com/Akava-Design/Akava-Colors
